@@ -1,5 +1,8 @@
 # Election_Analysis
 
+## Project Purpose
+Python, one of the most popular programming languages. Python is a general-purpose language powerful enough to use for tasks from scientific computing to running a web server. This project is an initial exploratory analysis with Python. 
+
 ## Overview of Election Audit
 A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election. 
 
